@@ -1,0 +1,12 @@
+Pour importer et editer le projet UML, commencer par installer ArgoUML,
+puis importer le projet << ILS_system_use_case.zargo >>.
+
+Pour installer ArgoUML, procéder comme suit : 
+
+=> pour une machine ubuntu : 
+	exécuter la commande suivante : 
+
+        > sudo apt-get install argouml
+
+=> sur une machine windows, télécharger l'exéxutable sur le site 
+d'ArgoUML, puis installer l'exécutable.
